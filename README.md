@@ -1,4 +1,4 @@
-# ARC 7 slurm el7 test-site
+# ARC 7 slurm el8 test-site
 This repository holds the arc.conf and slurm configuration files for the ARC SLURM test-site. 
 
 The endpoint fqdn is: **arctestcluster-slurm-el8-arc7-ce1.cern-test.uiocloud.no**
